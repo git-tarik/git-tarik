@@ -1,17 +1,101 @@
-# 💫 About Me:
-Final-year B.Tech CSE student focused on software engineering fundamentals and full-stack web development. Experienced in building end-to-end MERN applications with APIs, databases, and deployment, and interested in applying AI features where they add practical value.
+.
+
+💻 Hi there, I'm Md Tarik Anvar 👋
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38B2AC&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+Final-Year+B.Tech+CSE+Student;💻+Full-Stack+MERN+Developer;🧠+Software+Engineering+Focused;⚡+Building+Practical+AI+Integrated+Systems" alt="Typing SVG" /> </div> <div align="center">
 
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://git-tarik.github.io/static-portfolio/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tariqueanwar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-anvar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtarikanvar.cuj@gmail.com)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=git-tarik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=git-tarik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=git-tarik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=git-tarik&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+<div align="center">
+🎓 Final-Year B.Tech CSE • Software Engineering Focus • MERN Developer
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+“Build systems that work. Then make them better.”
+
+Passionate about clean architecture, scalable backend systems, and practical AI integration.
+
+</div>
+🌐 Connect With Me
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+📊 GitHub Stats & Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=git-tarik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&icon_color=38B2AC&rank_icon=github&line_height=27" width="48%" /> <img src="https://streak-stats.demolab.com/?user=git-tarik&theme=tokyonight&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38B2AC&sideLabels=38B2AC" width="48%" /> </div> <br/> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-tarik&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FF6B6B&hide_border=true&area=true" width="100%" /> </div> <br/> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-tarik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&langs_count=8" width="100%" /> </div>
+🛠️ Tech Stack
+💻 Languages & Core
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,java,bash" /> </div>
+🌐 Full-Stack Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,vite,tailwind,bootstrap" /> </div>
+🤖 AI & Data Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,fastapi,flask" /> </div>
+⚙️ DevOps & Deployment
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,render,docker" /> </div>
+🚀 What I Build
+🔹 Full MERN Applications
+
+REST APIs with authentication (JWT, OAuth)
+
+Secure backend architecture
+
+Database schema design
+
+Deployment on Vercel & Render
+
+Production-ready routing & middleware
+
+🔹 Practical AI Integration
+
+ML model APIs using FastAPI/Flask
+
+Computer vision pipelines (OpenCV, PyTorch)
+
+Data analysis dashboards
+
+GPU-accelerated experimentation
+
+🔹 Core Engineering Focus
+
+Clean code & modular structure
+
+Performance optimization
+
+Problem solving (DSA + System Design fundamentals)
+
+Real-world deployable systems
+
+🎯 Current Focus
+
+🧠 Strengthening Software Engineering Fundamentals
+⚡ Building a strong deployable MERN project portfolio
+📈 Preparing for SDE roles
+🔍 Integrating AI features where they add real product value
+
+💡 Engineering Philosophy
+Understand the fundamentals → Build clean systems → 
+Deploy early → Measure performance → Improve continuously
+
+Systems are not magic. They are logic stacked carefully.
+
+🤝 Open To
+
+Full-stack collaborations
+
+Backend architecture discussions
+
+Practical AI product development
+
+Open-source contributions
+
+<div align="center">
+⭐ If you find my projects useful, consider giving them a star.
+
+Let’s build software that actually works.
+
+</div>
