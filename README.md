@@ -129,8 +129,15 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 # 💡 Engineering Philosophy
 
 ```
-Understand the fundamentals → Build clean systems → 
-Deploy early → Measure performance → Improve continuously
+[Understand Fundamentals] 
+          ↓
+[Build Clean Systems]
+          ↓
+[Deploy Early]
+          ↓
+[Measure Performance]
+          ↓
+[Improve Continuously]
 ```
 
 Systems are not magic. They are logic stacked carefully.
