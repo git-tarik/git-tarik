@@ -140,9 +140,12 @@ flowchart TD
     B --> C
     C --> D
     D --> E
+    E --> A
 ```
 
 Systems are not magic. They are logic stacked carefully.
+
+
 # 🤝 Open To
 
 - Full-stack collaborations  
