@@ -144,6 +144,19 @@ Systems are not magic. They are logic stacked carefully.
 
 ---
 
+flowchart TD
+    A["Understand Fundamentals"]
+    B["Build Clean Systems"]
+    C["Deploy Early"]
+    D["Measure Performance"]
+    E["Improve Continuously"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> A
+
 # 🤝 Open To
 
 - Full-stack collaborations  
