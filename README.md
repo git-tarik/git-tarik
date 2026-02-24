@@ -128,22 +128,7 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 
 # 💡 Engineering Philosophy
 
-```
-[Understand Fundamentals] 
-          ↓
-[Build Clean Systems]
-          ↓
-[Deploy Early]
-          ↓
-[Measure Performance]
-          ↓
-[Improve Continuously]
-```
-
-Systems are not magic. They are logic stacked carefully.
-
----
-
+```mermaid
 flowchart TD
     A["Understand Fundamentals"]
     B["Build Clean Systems"]
@@ -155,8 +140,9 @@ flowchart TD
     B --> C
     C --> D
     D --> E
-    E --> A
+```
 
+Systems are not magic. They are logic stacked carefully.
 # 🤝 Open To
 
 - Full-stack collaborations  
