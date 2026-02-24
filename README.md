@@ -89,7 +89,7 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 ## ⚙️ DevOps & Deployment
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,Github-actions,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 </div>
 
 ---
