@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### 🎓 Final-Year B.Tech CSE • Software Engineering Focus • MERN Developer  
+### 🎓 Final-Year B.Tech CSE • Software Development Engineer • MERN Developer •GEN AI Engineer
 
 **“Build systems that work. Then make them better.”**
 
