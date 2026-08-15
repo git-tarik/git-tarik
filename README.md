@@ -36,29 +36,20 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 
 </div>
 
----
-
 # 📊 GitHub Stats & Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-tarik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&icon_color=38B2AC&rank_icon=github&line_height=27" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com/?user=git-tarik&theme=tokyonight&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38B2AC&sideLabels=38B2AC" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-tarik&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&icon_color=38B2AC&rank_icon=github&line_height=27" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=git-tarik&theme=tokyonight&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38B2AC&sideLabels=38B2AC" width="48%" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-tarik&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FF6B6B&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-tarik&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FF6B6B&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-tarik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&langs_count=8" width="100%" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-tarik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&langs_count=8" width="100%" alt="Top Languages" />
+</p>
 
 # 🛠️ Tech Stack
 
