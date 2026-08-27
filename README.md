@@ -37,16 +37,11 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=git-tarik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=git-tarik&theme=dark&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Contribution Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-tarik&theme=github_dark" alt="GitHub Contribution Summary" />
 
 <br/>
 
