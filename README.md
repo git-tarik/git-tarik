@@ -38,6 +38,32 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=git-tarik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=git-tarik&theme=dark&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Contribution Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-tarik&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/git-tarik?logo=github&style=for-the-badge&color=38B2AC&logoColor=white)](https://github.com/git-tarik)
+
+![Profile Views](https://komarev.com/ghpvc/?username=git-tarik&color=38B2AC&style=for-the-badge)
+
+</div>
+
 # 🛠️ Tech Stack
 
 ## 💻 Languages & Core
