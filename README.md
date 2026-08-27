@@ -45,7 +45,7 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-tarik&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-tarik&theme=github_dark" alt="Top Languages by Repository" />
 
 </div>
 
@@ -58,7 +58,6 @@ Passionate about clean architecture, scalable backend systems, and practical AI 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-tarik&color=38B2AC&style=for-the-badge)
 
 </div>
-
 # 🛠️ Tech Stack
 
 ## 💻 Languages & Core
