@@ -1,4 +1,5 @@
-# Hi there 👋 I'm **Md Tarik Anvar**
+# Hi there 👋 
+# I'm **Md Tarik Anvar**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=38B2AC&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=Software+Development+Engineer;Full-Stack+MERN+Developer;GenAI+Engineer" alt="Typing SVG" />
