@@ -59,7 +59,13 @@ Passionate about building intelligent AI applications powered by Large Language 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,langchain,langgrpah,langsmith" alt="Languages and core technologies" />
+<img src="https://skillicons.dev/icons?i=cpp,python,fastapi" alt="C++, Python, and FastAPI" />
+
+<br />
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
 
 </div>
 
@@ -69,7 +75,13 @@ Passionate about building intelligent AI applications powered by Large Language 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,fastapi,flask" alt="AI and machine learning technologies" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" alt="PyTorch, OpenCV, and Scikit-learn" />
+
+<br />
+
+<img src="https://img.shields.io/badge/LLMs-Generative_AI-412991?style=for-the-badge" alt="Large Language Models" />
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0D9488?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+<img src="https://img.shields.io/badge/AI_Agents-Agentic_AI-2563EB?style=for-the-badge" alt="AI Agents and Agentic AI" />
 
 </div>
 
