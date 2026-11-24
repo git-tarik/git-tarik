@@ -59,7 +59,7 @@ Passionate about building intelligent AI applications powered by Large Language 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,java,bash" alt="Languages and core technologies" />
+<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,langchain,langgrpah,langsmith" alt="Languages and core technologies" />
 
 </div>
 
