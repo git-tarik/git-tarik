@@ -2,7 +2,7 @@
 # I'm **Md Tarik Anvar**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=38B2AC&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=GenAI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=38B2AC&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=Generative+AI+Engineer;Agentic+AI+Engineer;LLM+Application+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-### Software Development Engineer • Full-Stack Developer • GenAI Engineer
+### Generative AI Engineer • Agentic AI Engineer • LLM Application Developer
 
-**"Build systems that work. Then make them better."**
+**"Build intelligent systems. Empower them to reason, retrieve, and act."**
 
-Passionate about building scalable software, intelligent AI systems, and practical products that combine strong software engineering with modern Generative AI.
+Passionate about building intelligent AI applications powered by Large Language Models, Retrieval-Augmented Generation, and agentic workflows. Focused on developing practical GenAI solutions that combine LLMs, external knowledge, tools, and backend systems to solve real-world problems.
 
 </div>
 
@@ -55,27 +55,17 @@ Passionate about building scalable software, intelligent AI systems, and practic
 
 # 🛠️ Tech Stack
 
-## 💻 Languages & Core
+## 💻 Languages & Core Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,java,bash" alt="Languages and core technologies" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,java,bash" alt="Languages and core technologies" />
 
 </div>
 
 ---
 
-## 🌐 Full-Stack Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,vite,tailwind,bootstrap" alt="Full-stack technologies" />
-
-</div>
-
----
-
-## 🤖 AI & Machine Learning
+## 🤖 Generative AI & Machine Learning
 
 <div align="center">
 
@@ -83,21 +73,43 @@ Passionate about building scalable software, intelligent AI systems, and practic
 
 </div>
 
-### Generative AI
+### Generative AI & LLM Applications
 
-**LLMs** • **RAG** • **AI Agents** • **Embeddings** • **Vector Search** • **Hybrid Search** • **Tool Calling** • **Function Calling**
+**LLMs** • **RAG** • **AI Agents** • **Agentic Workflows** • **Embeddings** • **Vector Search** • **Hybrid Search** • **Tool Calling** • **Function Calling** • **Structured Outputs**
 
-### Frameworks
+### Frameworks & Orchestration
 
 **LangChain** • **LangGraph** • **LangSmith**
 
-### Vector Databases
+### Vector Databases & Retrieval
 
 **Pinecone** • **ChromaDB** • **FAISS**
 
 ### LLM Ecosystem
 
 **OpenAI** • **Gemini** • **Cohere**
+
+### Machine Learning & Computer Vision
+
+**PyTorch** • **Scikit-learn** • **OpenCV** • **SHAP** • **Grad-CAM**
+
+---
+
+## 🌐 AI Application Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,vite,tailwind,bootstrap" alt="AI application development technologies" />
+
+</div>
+
+**Frontend:** React • Vite • JavaScript • Tailwind CSS
+
+**Backend:** Python • FastAPI • Node.js • Express
+
+**Databases:** PostgreSQL • MongoDB • MySQL
+
+**Application Development:** REST APIs • Authentication • Database Integration • LLM Integration
 
 ---
 
@@ -115,31 +127,30 @@ Passionate about building scalable software, intelligent AI systems, and practic
 
 # 🚀 What I Build
 
-## 🌐 Full-Stack Applications
+## 🤖 Generative AI Applications
 
-I build modern full-stack applications with scalable frontend and backend architectures.
+I build LLM-powered applications that combine language models with external knowledge, retrieval pipelines, tools, and backend services to create useful AI-driven solutions.
 
-- MERN stack applications
-- RESTful APIs
-- Authentication & authorization
-- JWT & OAuth
-- Role-based access control
-- Database schema design
-- Secure backend architecture
-- Middleware & request validation
-- React-based interfaces
-- PostgreSQL & MongoDB applications
-- Production-ready deployments
+- LLM-powered applications
+- Retrieval-Augmented Generation (RAG)
+- AI-powered document processing
+- Context-aware question answering
+- Knowledge-based conversational systems
+- LLM integration with external APIs
+- Structured outputs and data extraction
+- Prompt engineering and optimization
+- AI application backends with FastAPI
+- LLM application evaluation and optimization
 
 ---
 
-# 🤖 Generative AI Engineering
+# 🧠 Generative AI Engineering
 
-I build **LLM-powered applications and intelligent AI systems** that combine large language models with retrieval, agents, tools, memory, and external data.
+I focus on building **LLM-powered applications and intelligent AI systems** that go beyond simple prompting by integrating retrieval, tools, memory, and external data.
 
 ## 🔎 Retrieval-Augmented Generation (RAG)
 
-I build RAG systems that connect LLMs with external and domain-specific knowledge.
+I build RAG systems that connect LLMs with external and domain-specific knowledge to produce context-aware responses.
 
 - Document ingestion & processing
 - Text chunking & preprocessing
@@ -181,7 +192,7 @@ LangChain • LangGraph
 
 ## 🔗 LangChain & LangGraph
 
-I use **LangChain** to build modular LLM applications and **LangGraph** to design stateful and controllable agent workflows.
+I use **LangChain** to build modular LLM applications and **LangGraph** to design stateful, controllable, and multi-step agent workflows.
 
 - LLM chains
 - Prompt templates
@@ -231,17 +242,19 @@ I also build traditional ML and computer vision systems when specialized models 
 
 ---
 
-# ⚡ AI-Powered Backend Architecture
+# ⚡ AI Application Architecture
 
 I combine modern backend technologies with LLM frameworks to build deployable AI applications.
 
-**Frontend**
+<div align="center">
 
-React / Vite
+**Frontend & User Interface**
+
+React / Vite / Streamlit
 
 ↓
 
-**API Layer**
+**API & Backend Layer**
 
 FastAPI / Node.js / Express
 
@@ -275,37 +288,41 @@ Pinecone / ChromaDB / FAISS / PostgreSQL / MongoDB
 
 LangSmith
 
+</div>
+
 ---
 
 # 🎯 Current Focus
 
-- Strengthening Software Engineering fundamentals
-- Improving DSA and problem-solving
-- Building scalable full-stack applications
-- Deepening my Generative AI expertise
+- Deepening my Generative AI engineering expertise
 - Building production-oriented RAG systems
 - Developing AI agents with LangGraph
 - Learning advanced LLM application architecture
-- Improving backend and system design skills
-- Building AI features that solve real-world problems
+- Exploring agentic workflows and multi-agent systems
+- Improving LLM evaluation, tracing, and observability
+- Strengthening Python, FastAPI, and backend engineering
+- Improving DSA and problem-solving
+- Learning AI infrastructure and system design
+- Building practical AI solutions that solve real-world problems
 
 ---
 
 # 🧩 Areas of Interest
 
-- Software Engineering
-- Backend Engineering
-- Full-Stack Development
 - Generative AI
 - Large Language Models
 - Retrieval-Augmented Generation
 - AI Agents
 - Agentic Workflows
 - LLM Applications
+- Multi-Agent Systems
+- AI Automation
+- LangChain & LangGraph
 - Vector Databases
 - AI Infrastructure
+- LLM Observability
+- Backend Engineering
 - System Design
-- Developer Tools
 - AI-powered Products
 
 ---
@@ -346,9 +363,11 @@ Machine learning and computer vision projects involving image classification, se
 
 # 💡 Engineering Philosophy
 
-**Understand → Design → Build → Deploy → Measure → Improve**
+**Understand → Design → Build → Evaluate → Deploy → Improve**
 
-I believe good engineering starts with strong fundamentals and continues through iteration, observability, and continuous improvement.
+I believe good AI engineering starts with strong fundamentals and continues through experimentation, evaluation, observability, and continuous improvement.
+
+My focus is on building AI systems that are not only intelligent, but also useful, reliable, and practical.
 
 ---
 
@@ -356,21 +375,25 @@ I believe good engineering starts with strong fundamentals and continues through
 
 <div align="center">
 
-### Software Engineering
-
-**DSA • OOP • DBMS • OS • Computer Networks • System Design**
-
-### Full Stack
-
-**React • Node.js • Express • MongoDB • PostgreSQL**
-
 ### Generative AI
 
-**LLMs • RAG • AI Agents • LangChain • LangGraph • LangSmith**
+**LLMs • RAG • Prompt Engineering • LLM Applications**
+
+### Agentic AI
+
+**AI Agents • LangGraph • Tool Calling • Agentic Workflows**
 
 ### AI Infrastructure
 
 **Embeddings • Vector Databases • Retrieval • APIs • Docker**
+
+### AI Application Development
+
+**Python • FastAPI • React • PostgreSQL • MongoDB**
+
+### Engineering Fundamentals
+
+**DSA • OOP • DBMS • OS • Computer Networks • System Design**
 
 </div>
 
@@ -378,7 +401,7 @@ I believe good engineering starts with strong fundamentals and continues through
 
 # 📫 Let's Connect
 
-I'm interested in **Software Engineering, Generative AI, backend systems, AI agents, and building useful products.**
+I'm interested in **Generative AI, Agentic AI, LLM applications, and building intelligent systems that solve real-world problems.**
 
 <div align="center">
 
